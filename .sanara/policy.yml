@@ -23,6 +23,7 @@ finding_policy:
     - CKV_AWS_50
     - CKV_AWS_7
     - CKV_AWS_79
+    - CKV_AWS_27
   suggest_only:
     - CKV_AWS_20
 
